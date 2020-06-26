@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Neptunium",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "neptunium"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.some_mod_idk.neptunium": "Neptunium"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "some_mod_idk",
+    "modName": "some mod idk",
+    "version": "1.0.0",
+    "author": "ottlo, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.somemodidk",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
